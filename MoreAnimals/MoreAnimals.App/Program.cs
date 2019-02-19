@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Animals.UI
+namespace MoreAnimals.App
 {
     class Program
     {
